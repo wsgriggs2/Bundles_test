@@ -8,3 +8,5 @@ while GetSecs < t_strt + durITI
 end
     
 end
+
+testthiswon't work verion
